@@ -6,7 +6,7 @@
 
 - Install the dependencies using `pip install -r requirement.txt`.
 
-- Start the python server, `python manage,py runserver`.
+- Start the python server, `python manage.py runserver`.
 
 - Go to `localhost:8000` and upload the `user_data.xls` file.
 
@@ -15,3 +15,5 @@
 - Refer below article for detailed information:
 
     http://thepythondjango.com/upload-process-excel-file-django/
+
+![alt text](https://github.com/anuragrana/excel-file-upload-django/blob/master/excel-django.png)
